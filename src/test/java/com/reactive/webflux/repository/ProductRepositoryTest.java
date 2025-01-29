@@ -1,8 +1,8 @@
 package com.reactive.webflux.repository;
 
 import com.reactive.webflux.AbstractTest;
-import com.reactive.webflux.sec01.model.Product;
-import com.reactive.webflux.sec01.repository.ProductRepository;
+import com.reactive.webflux.course.model.Product;
+import com.reactive.webflux.course.repository.ProductRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Pageable;

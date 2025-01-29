@@ -1,6 +1,6 @@
-package com.reactive.webflux.sec01.repository;
+package com.reactive.webflux.course.repository;
 
-import com.reactive.webflux.sec01.model.Product;
+import com.reactive.webflux.course.model.Product;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.r2dbc.repository.R2dbcRepository;
 import org.springframework.stereotype.Repository;

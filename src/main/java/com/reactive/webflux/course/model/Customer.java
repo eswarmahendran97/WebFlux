@@ -1,4 +1,4 @@
-package com.reactive.webflux.sec01.model;
+package com.reactive.webflux.course.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.relational.core.mapping.Table;
@@ -8,6 +8,7 @@ public class Customer {
     @Id
     int id;
     String name;
+    String email;
 
     public int getId() {
         return id;
@@ -32,6 +33,4 @@ public class Customer {
     public void setEmail(String email) {
         this.email = email;
     }
-
-    String email;
 }

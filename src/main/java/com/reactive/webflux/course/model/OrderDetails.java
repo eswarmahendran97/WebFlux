@@ -1,4 +1,4 @@
-package com.reactive.webflux.sec01.model;
+package com.reactive.webflux.course.model;
 
 import java.sql.Timestamp;
 import java.time.Instant;

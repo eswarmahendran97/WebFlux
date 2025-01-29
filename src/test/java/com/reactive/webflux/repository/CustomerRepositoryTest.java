@@ -1,8 +1,8 @@
 package com.reactive.webflux.repository;
 
 import com.reactive.webflux.AbstractTest;
-import com.reactive.webflux.sec01.model.Customer;
-import com.reactive.webflux.sec01.repository.CustomerRepository;
+import com.reactive.webflux.course.model.Customer;
+import com.reactive.webflux.course.repository.CustomerRepository;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

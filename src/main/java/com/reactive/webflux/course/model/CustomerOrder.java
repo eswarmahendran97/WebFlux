@@ -1,4 +1,4 @@
-package com.reactive.webflux.sec01.model;
+package com.reactive.webflux.course.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.relational.core.mapping.Table;

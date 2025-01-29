@@ -1,7 +1,8 @@
-package com.reactive.webflux.sec01.repository;
+package com.reactive.webflux.course.repository;
 
-import com.reactive.webflux.sec01.model.CustomerOrder;
-import com.reactive.webflux.sec01.model.OrderDetails;
+
+import com.reactive.webflux.course.model.CustomerOrder;
+import com.reactive.webflux.course.model.OrderDetails;
 import org.springframework.data.r2dbc.repository.Query;
 import org.springframework.data.r2dbc.repository.R2dbcRepository;
 import org.springframework.stereotype.Repository;

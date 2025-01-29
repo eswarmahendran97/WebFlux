@@ -1,7 +1,7 @@
 package com.reactive.webflux.repository;
 
 import com.reactive.webflux.AbstractTest;
-import com.reactive.webflux.sec01.model.OrderDetails;
+import com.reactive.webflux.course.model.OrderDetails;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.r2dbc.core.DatabaseClient;
